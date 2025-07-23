@@ -1,7 +1,3 @@
-Eros Baltodano
-
-Web developer 
-
 ---
 
 ## Technologies I work with
