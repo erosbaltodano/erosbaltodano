@@ -43,7 +43,3 @@
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erosbaltodano&theme=onedark)](https://git.io/streak-stats)
